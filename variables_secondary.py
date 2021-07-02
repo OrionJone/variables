@@ -44,5 +44,11 @@
 #       - True or Floor Division with itself and a random number.
 #       - Addition with itself and an equation
 #           - Example Equation: ((10 - 2) * (4 + 3) - 1) * 15
+
+x = 35
+((x - 30)
+ (x * 50)
+ (x / 5)
+
 #
 

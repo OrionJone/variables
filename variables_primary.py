@@ -40,11 +40,20 @@ print('EXAMPLE: my name is', example_name)
 #   2) Create a variable that holds the day of the month of your birthday.
 #   3) Create a variable that holds a negative number.
 #   4) Create a variable that holds a floating (decimal) point number.
+favorite = 4
+month = 25
+negative = -12
+decimal = 3.25
 #
 # Print
 #   5) Print each variable, describing the value you print.
 
+
 # WRITE CODE BELOW
+print(favorite)
+print(month)
+print(negative)
+print(decimal)
 
 
 
@@ -58,16 +67,27 @@ print('EXAMPLE: my name is', example_name)
 #   1) Overwrite the variable holding your name, and save a different name to it.
 #   2) Overwrite the variable holding birthday with the day you think would be best to have a birthday on.
 #   3) Overwrite the variable holding your favorite number and set it to a number you think is unlucky.
+name = orion
+HypotheticalBirthday= july2
+unlucky = 6
+
+
+
+
+
 #
 # Print
 #   4) Print the variables you've overwritten, describing the values you print.
 #
 # Example Code
-example_name = 'lucia'
-print('EXAMPLE: my new name is', example_name)
+
 
 # WRITE CODE BELOW
-
+print(favorite)
+print(month)
+print(negative)
+print(decimal)
+print(HypotheticalBirthday)
 
 
 # 1.4 | Operations
@@ -80,18 +100,23 @@ print('EXAMPLE: my new name is', example_name)
 #   1) Create a variable that is the sum of two numbers.
 #   2) Create a variable that is the product of three numbers.
 #   3) Create a variable by dividing the previously created sum, with the previously created product.
+sum = 11 + 21
+biggersum = 11 * 21 * 23
+division = 5313 / 32
 #
 #   4) Create a variable that is the concatenation of your name and an animal you like (use the variables!)
 #   5) Create a variable that is an acronym (like 'lol') multiplied by your birth day.
+favorite_animal = frog
+TFOM = TwentyFifthOfMarch
 #
 #   6) Create a variable that is difference of itself minus the number you think is unlucky.
-#   7) Overwrite the lucky variable with the itself squared.
+#
+addingunlucky = 9 - 6
 #
 # Print
 #   7) Print all the new variables you've created along with what the represent
 #
 # Example Code
-example_sum = 11 + 21
 print('EXAMPLE: the sum of 11 and 21 is', example_sum)
 
 # WRITE CODE BELOW
